@@ -8,16 +8,8 @@
 
 ## Sobre
 
-Será utilizado para treinamento do Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services.
+Esse repositório será utilizado para treinamento do Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services.
 Essa será uma aplicação para armazenar transações financeiras de entrada e saída, que deve permitir o cadastro e a listagem dessas transações.
-
-## Como usar
-
-
-
-## Como praticar
-
-
 
 ## :memo: Licença
 
